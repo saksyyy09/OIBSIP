@@ -1,0 +1,29 @@
+
+    #title {
+      font-size: 7vw;
+      font-family: noto-serif;
+      background: #ff6f00;
+      border-radius: 4vw;
+      border-style: solid;
+      color: white;
+      text-align: centre;
+      margin: 2vw 2vw 2vw 2vw;
+      padding: 2vw 0vw 2vw 0vw;
+    }
+  
+    #img-div {
+      font-size: 2vw;
+      font-family: monospace;
+      diplay:block;
+      max-width: 100%;
+    }
+  
+    #main {
+      background-color: #ffffe5;
+    }
+  
+    #image {
+      display: block;
+      height: auto;
+      max-width:100%;
+    }
